@@ -1,0 +1,13 @@
+.submit{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    color: #fff;
+}
+.center{
+    position: relative;
+    top: 50%;
+}
